@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    height: 7vh;
+    width: 100%;
+    background-color: aqua;
+    position: sticky;
+    top: 0;
+
+}
+nav .inner{
+    padding-top: 1vh ;
+}
+nav .nav{
+    margin-right: 10px;
+}
+
+#maintable{
+    display: none;
+    overflow-x: auto;
+}
